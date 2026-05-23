@@ -58,7 +58,7 @@ https://github.com/HarishRavikumar510/Placement-prep-ai-agent
 ##  Autoentry AI
 AI-powered document processing and workflow automation platform
 
-🔗 GitHub Repository: 
+🔗 GitHub Repository:
 https://github.com/HarishRavikumar510/Autoentry-ai
 
 ---
