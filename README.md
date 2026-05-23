@@ -94,6 +94,6 @@ Smart solar monitoring and EV charging optimization platform using IoT sensors, 
 
 <div align="center">
 
-### ⭐ "Building intelligent systems that solve real-world problems."
+### ⭐ "Building intelligent systems that solve real-world problems." ⭐
 
 </div>
