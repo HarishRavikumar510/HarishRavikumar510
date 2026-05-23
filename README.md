@@ -73,7 +73,7 @@ AI-based learning assistant for coding practice, aptitude analysis, and intervie
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harish-ravikumar-70509524a/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github)](https://github.com/HarishRavikumar510)
 
