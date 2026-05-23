@@ -36,7 +36,7 @@
 
 # 🚀 Featured Projects
 
-## 🛡️ Cyber Fraud Detection Monitoring System
+##  Cyber Fraud Detection Monitoring System
 AI-powered fraud detection platform using Machine Learning, SHAP Explainable AI, Streamlit, SQLite, and interactive cybersecurity dashboards.
 
 🔗 Live Demo:  
@@ -47,13 +47,24 @@ https://github.com/HarishRavikumar510/Cyber-Fraud-Detection-System
 
 ---
 
-## ☀️ AI-Powered IoT Solar Monitoring System
-Smart solar monitoring and EV charging optimization platform using IoT sensors, cloud dashboards, and AI analytics.
+##  Placement Preparation AI Agent
+AI-based learning assistant for coding practice, aptitude analysis, and interview preparation.
+
+🔗 GitHub Repository:  
+https://github.com/HarishRavikumar510/Placement-prep-ai-agent
 
 ---
 
-## 🎯 Placement Preparation AI Agent
-AI-based learning assistant for coding practice, aptitude analysis, and interview preparation.
+##  Autoentry AI
+AI-powered document processing and workflow automation platform
+
+🔗 GitHub Repository: 
+https://github.com/HarishRavikumar510/Autoentry-ai
+
+---
+
+##  AI-Powered IoT Solar Monitoring System
+Smart solar monitoring and EV charging optimization platform using IoT sensors, cloud dashboards, and AI analytics.
 
 ---
 
