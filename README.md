@@ -1,14 +1,9 @@
-<div align="center">
-
-# 👋 Hi, I'm Harish Ravikumar
-
-### 🚀 Electronics & Communication Engineering Student  
-### 💻 AI • Cybersecurity • IoT • Machine Learning Enthusiast
-
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=⚡+WELCOME+TO+MY+GITHUB+⚡;Harish+Ravikumar;AI+Developer+%7C+Cybersecurity+Enthusiast;IoT+Innovator+%7C+ML+Explorer;Building+Real-World+Intelligent+Systems"
-  alt="Typing SVG" 
-/>
+<div align="center"> 
+# 👋 Hi, I'm Harish Ravikumar 
+### 🚀 Electronics & Communication Engineering Student 
+### 💻 AI • Cybersecurity • IoT • Machine Learning Enthusiast 
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=AI+Developer;Cybersecurity+Enthusiast;IoT+Innovator;Machine+Learning+Explorer;Building+Real+World+Projects" /> 
 
 </div>
 
