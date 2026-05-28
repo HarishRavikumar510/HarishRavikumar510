@@ -66,6 +66,9 @@ https://github.com/HarishRavikumar510/Autoentry-ai
 ##  AI-Powered IoT Solar Monitoring System
 Smart solar monitoring and EV charging optimization platform using IoT sensors, cloud dashboards, and AI analytics.
 
+🔗 GitHub Repository:
+https://github.com/HarishRavikumar510/Ai-Powered-IoT-solar-monitoring-and-smart-charging-system-for-rural-communities
+
 ---
 
 # 🌐 Connect With Me
