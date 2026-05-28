@@ -68,18 +68,6 @@ Smart solar monitoring and EV charging optimization platform using IoT sensors, 
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarishRavikumar510&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarishRavikumar510&theme=tokyonight" />
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
