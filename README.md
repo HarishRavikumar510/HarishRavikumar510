@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,node.js,git,github,vscode,arduino,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,react,nodejs,git,github,vscode,arduino,mysql" />
 
 </div>
 
