@@ -42,7 +42,7 @@ AI-powered fraud detection platform using Machine Learning, SHAP Explainable AI,
 🔗 Live Demo:  
 https://cyber-fraud-detection-system-tz8xp5g5rpwfymqrnjxa2k.streamlit.app
 
-🔗 GitHub Repository:  
+🔗 Repository:  
 https://github.com/HarishRavikumar510/Cyber-Fraud-Detection-System
 
 ---
@@ -50,7 +50,10 @@ https://github.com/HarishRavikumar510/Cyber-Fraud-Detection-System
 ##  Placement Preparation AI Agent
 AI-based learning assistant for coding practice, aptitude analysis, and interview preparation.
 
-🔗 GitHub Repository:  
+🔗 Live Demo:
+https://placement-prep-ai-agent.vercel.app/
+
+🔗 Repository:  
 https://github.com/HarishRavikumar510/Placement-prep-ai-agent
 
 ---
@@ -61,7 +64,7 @@ AI-powered document processing and workflow automation platform
 🔗 Live Demo:
 https://autoentry-ai.onrender.com/
 
-🔗 GitHub Repository:
+🔗 Repository:
 https://github.com/HarishRavikumar510/Autoentry-ai
 
 ---
@@ -69,7 +72,7 @@ https://github.com/HarishRavikumar510/Autoentry-ai
 ##  AI-Powered IoT Solar Monitoring System
 Smart solar monitoring and EV charging optimization platform using IoT sensors, cloud dashboards, and AI analytics.
 
-🔗 GitHub Repository:
+🔗 Repository:
 https://github.com/HarishRavikumar510/Ai-Powered-IoT-solar-monitoring-and-smart-charging-system-for-rural-communities
 
 ---
